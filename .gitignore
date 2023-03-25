@@ -1,1 +1,8 @@
 .gitignore
+
+
+# OpenWeatherMap API Key
+weather_api_key = "f5112bbe8f644e1aaa40f3fd8ffa48f1"
+
+# Google API Key
+g_key = "YOUR KEY HERE!"
